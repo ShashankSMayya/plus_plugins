@@ -8,10 +8,10 @@ dependencies:
   cross_file: ^0.3.3+4
   flutter:
     sdk: flutter
-  meta: ^1.8.0
+  meta: ^1.9.1
   mime: ^1.0.4
   plugin_platform_interface: ^2.1.4
-  path_provider: ^2.0.14
+  path_provider: ^2.0.15
   uuid: ^3.0.7
 
 dev_dependencies:
