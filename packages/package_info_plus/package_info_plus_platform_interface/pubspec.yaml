@@ -7,7 +7,7 @@ repository: https://github.com/fluttercommunity/plus_plugins/tree/main/packages/
 dependencies:
   flutter:
     sdk: flutter
-  meta: ^1.8.0
+  meta: ^1.9.1
   plugin_platform_interface: ^2.1.4
 
 dev_dependencies:
